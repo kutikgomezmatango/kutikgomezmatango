@@ -7,8 +7,6 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0066CC?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kutikgomez/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/kutikgomez/)
 
-> Construcción de aplicaciones escalables y modernas con tecnologías de punta
-
 </div>
 
 ---
